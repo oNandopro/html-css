@@ -1,4 +1,4 @@
-[SITE]
+[SITE] -
 
 Cores: #C5EBD6 #82E0AD #3DDB84 #2FA865 #063D1E
 
