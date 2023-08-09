@@ -37,6 +37,7 @@ header > h1 {
 
 menu {
     display: none;
+    padding-left: 10px;
 }
 
 menu > ul {
